@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=GBK">
         <link rel="stylesheet" type="text/css" href="${pageContext.servletContext.contextPath}/extjs/resources/css/ext-all.css" />
         <link rel="stylesheet" type="text/css" href="${pageContext.servletContext.contextPath}/resources/common/common.css" />
         <link rel="stylesheet" type="text/css" href="${pageContext.servletContext.contextPath}/resources/use-system/login.css" />
@@ -45,7 +45,7 @@
         </script>
 
        
-        <title>ÏµÍ³ï¿½ï¿½ï¿½ï¿½22</title>
+        <title>ÏµÍ³²âÊÔ22</title>
     </head>
     <body>
         

@@ -100,8 +100,7 @@ Ext.cuinfo.UserManager=Ext.extend(Ext.Panel,{
     	   	
     },
     showModifyPasswordWin:function(){
-        if(console)
-        console.log("modifyPassword");
+      
         if(!this.modifyPasswordWin)
             this.modifyPasswordWin=new Ext.cuinfo.ModifyUserPasswordWin({
                 closeAction:'hide',
@@ -112,7 +111,7 @@ Ext.cuinfo.UserManager=Ext.extend(Ext.Panel,{
         this.modifyPasswordWin.show();
     },
     showContactUsWin:function(){
-        console.log("contact");
+      
     //    	if(!this.contactUsWin)
     //    		this.contactUsWin=new Ext.cgit.ContactUsWin({
     //    			closeAction:'hide',
