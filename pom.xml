@@ -117,4 +117,7 @@
       <url>file:${project.basedir}/lib</url>
     </repository>
   </repositories>
+    <properties>
+        <netbeans.hint.deploy.server>Tomcat</netbeans.hint.deploy.server>
+    </properties>
 </project>
